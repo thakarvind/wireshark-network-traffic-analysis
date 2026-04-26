@@ -1,5 +1,4 @@
-# wireshark-network-traffic-analysis
-# Instagram & Facebook Network Analysis
+# wireshark-network-traffic-analysis of Instagram & Facebook
 
 ## Project Overview
 
