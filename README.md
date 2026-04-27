@@ -27,7 +27,8 @@ I conducted a hands-on network security analysis project where I captured and an
 
 ---
 
-<img width="1919" height="838" alt="wireshark_ip_blurred" src="https://github.com/user-attachments/assets/e1368e0f-c90c-4e9a-8fe3-96c0cd6c1524" />
+<img width="1919" height="838" alt="wireshark_ip_blurred" src="https://github.com/user-attachments/assets/b2c5baf4-0a8c-4537-98d9-f2efb90adb5a" />
+
 
 
 ## Key Findings
