@@ -76,7 +76,7 @@ Identified 15+ endpoints:
 
 ### Traffic Characteristics
 ```
-Total Packets: 8,000+
+Total Packets: 5,000+
 Encrypted: 95%+
 Plaintext: <5% (only DNS)
 Duration: 5 minutes capture
@@ -287,7 +287,7 @@ This hands-on project provided:
 | Aspect | Achievement |
 |--------|-------------|
 | **Apps Analyzed** | 2 major platforms (Instagram, Facebook) |
-| **Packets Captured** | 8,000+ real packets |
+| **Packets Captured** | 5,000+ real packets |
 | **Protocols Examined** | 7+ distinct protocols |
 | **Security Checks** | 10+ verification criteria |
 | **Findings** | Comprehensive security assessment |
